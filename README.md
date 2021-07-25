@@ -1,9 +1,24 @@
-### Hi there 👋
+### 👋 Seungjae Lim -- @SeungjaeLim
+
+🏫 Graduated **Chungbuk Science High School**
+
+🏫 Undergraduate Student in **Korea Advanced Institude of Science and Technology, KAIST**
+- Major in Computer Science
+- Double Major in Electrical Engineering
+
+### 🔭 I’m currently working on ...
+
+- Individual Study in CASYS(Computer Architecture and Systems Lab)
+- SoC Executive Committe
+
+[![SeungjaeLim's github stats](https://github-readme-stats.vercel.app/api?username=SeungjaeLim&show_icons=true&theme=dracula)](https://github.com/SeungjaeLim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLim&layout=compact&langs_count=8&theme=dracula)](https://github.com/SeungjaeLim)
 
 <!--
 **SeungjaeLim/SeungjaeLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### 🌱 I’m currently learning ...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
