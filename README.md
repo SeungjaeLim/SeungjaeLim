@@ -1,5 +1,5 @@
 
-<h3 align="center"> 👋 Seungjae Lim 👋 </h3>
+<h2 align="center"> Seungjae Lim </h2>
 
 🏫 Graduated **Chungbuk Science High School**
 
