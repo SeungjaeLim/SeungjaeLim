@@ -1,11 +1,19 @@
 
-<h2 align="center"> Seungjae Lim </h2>
+<h1 align="center"> Seungjae Lim </h1>
 
-🏫 Graduated **Chungbuk Science High School**
 
-🏫 Undergraduate Student in **Korea Advanced Institude of Science and Technology, KAIST**
-- Major in Computer Science
-- Double Major in Electrical Engineering
+<h2 align="center"> 
+  🏫 Education 🏫
+</h2>
+<h3 align="center"> Undergraduate Student in Korea Advanced Institude of Science and Technology, KAIST </h3>
+<h4 align="center"> ( 2019.03 ~ ) <h4 align="center">
+<h5 align="center"> Major in Computer Science <h5 align="center">
+<h5 align="center"> Double Major in Electrical Engineering <h5 align="center">
+  
+<h5 align="center">   <h5 align="center">
+<h3 align="center"> Graduated Chungbuk Science High School </h3>
+  <h4 align="center"> ( 2017.03 ~ 2019.02 ) <h4 align="center">
+    
 
 ### 🔭 I’m currently working on ...
 
