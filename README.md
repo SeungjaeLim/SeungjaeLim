@@ -11,7 +11,7 @@
 <h5 align="center"> Double Major in Electrical Engineering <h5 align="center">
   
 <h5 align="center">   <h5 align="center">
-<h3 align="center"> Graduated Chungbuk Science High School </h3>
+<h3 align="center"> Early Graduated Chungbuk Science High School </h3>
   <h4 align="center"> ( 2017.03 ~ 2019.02 ) <h4 align="center">
     
 
@@ -35,7 +35,7 @@
 <h4 align="center"> ( 2020.03 ~ ) <h4 align="center">
   
  <h2 align="center"> 
-  🏫 Project 🏫
+  📁 Project 📁
 </h2>
   <h3 align="center"> Computer Architecture and Systems Lab, CASYS (Prof.Jaehyuk Huh) </h3>
 <h4 align="center"> ( 2021.06 ~ 2021.08) <h4 align="center">
