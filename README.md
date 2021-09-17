@@ -31,7 +31,7 @@
 <h4 align="center"> ( 2021.09 ~ ) <h4 align="center">
 <h5 align="center"> Daejon-Chungcheong branch 18th <h5 align="center">    
  
-<h3 align="center"> KAIST SoC Executive Committe </h3>
+<h3 align="center"> KAIST SoC Student Council </h3>
 <h4 align="center"> ( 2020.03 ~ ) <h4 align="center">
   
  <h2 align="center"> 
