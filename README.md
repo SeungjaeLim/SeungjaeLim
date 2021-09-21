@@ -11,7 +11,7 @@
 <p align="center"> Double Major in Electrical Engineering </p>
 <p align="center"> ( 2019.03 ~ ) </p>
   
-<h3 align="center"> Early Graduated Chungbuk Science High School </h3>
+<h4 align="center"> Early Graduated Chungbuk Science High School </h4>
 <p align="center"> ( 2017.03 ~ 2019.02 ) </p>    
     
 
