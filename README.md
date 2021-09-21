@@ -2,10 +2,10 @@
 <h1 align="center"> Seungjae Lim </h1>
 
 
-<h2 align="center"> 
+<h3 align="center"> 
   🏫 Education 🏫
-</h2>
-<h3 align="center"> Undergraduate Student in Korea Advanced Institude of Science and Technology, KAIST </h3>
+</h3>
+<h4 align="center"> Undergraduate Student in Korea Advanced Institude of Science and Technology, KAIST </h4>
 
 <p align="center"> Major in Computer Science </p>
 <p align="center"> Double Major in Electrical Engineering </p>
@@ -15,29 +15,29 @@
 <p align="center"> ( 2017.03 ~ 2019.02 ) </p>    
     
 
-<h2 align="center">  💻 Currently working on 💻 </h2>
-<h3 align="center"> Operating System Laboratory, OSLab (Prof.Youjip Won) </h3>
+<h3 align="center">  💻 Currently working on 💻 </h3>
+<h4 align="center"> Operating System Laboratory, OSLab (Prof.Youjip Won) </h4>
 <p align="center"> Individual Study student </p>  
 <p align="center"> ( 2021.09 ~ ) </p>  
 
-<h3 align="center"> 하나은행-KAIST 현업 전산개발 역량 보유 인재 양성과정 (Prof.Eunyoung Moon) </h3>
+<h4 align="center"> 하나은행-KAIST 현업 전산개발 역량 보유 인재 양성과정 (Prof.Eunyoung Moon) </h4>
 <p align="center"> Data Structure & Algorithm TA </p> 
 <p align="center"> ( 2021.09 ~ ) </p>  
   
-<h3 align="center"> SK Lookie </h3>
+<h4 align="center"> SK Lookie </h4>
 <p align="center"> ( 2021.09 ~ ) </p>  
   
-<h3 align="center"> Korean University Student Education Donation Foundation </h3>  
+<h4 align="center"> Korean University Student Education Donation Foundation </h4>  
 <p align="center"> Daejon-Chungcheong branch 18th </p> 
 <p align="center"> ( 2021.09 ~ ) </p>
   
-<h3 align="center"> KAIST SoC Student Council </h3>
+<h4 align="center"> KAIST SoC Student Council </h4>
 <p align="center"> ( 2020.03 ~ ) </p> 
   
- <h2 align="center"> 
+ <h3 align="center"> 
   📁 Project 📁
-</h2>
-<h3 align="center"> Computer Architecture and Systems Lab, CASYS (Prof.Jaehyuk Huh) </h3>
+</h3>
+<h4 align="center"> Computer Architecture and Systems Lab, CASYS (Prof.Jaehyuk Huh) </h4>
 <p align="center"> Individual Study about Machine Learning Secure Computing </p> 
 <p align="center"> ( 2021.06 ~ 2021.08) </p> 
 
