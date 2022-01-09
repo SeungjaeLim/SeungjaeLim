@@ -2,7 +2,6 @@
 <h1> Seungjae Lim </h1>
 <a href="https://www.instagram.com/1m_seungjae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1m_seungjae/"/></a>
 
-
 ### 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -20,7 +19,6 @@
 </p>
 
 <br>  
-<br> <br> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLim&layout=compact&langs_count=8&theme=dracula)](https://github.com/SeungjaeLim)
 
