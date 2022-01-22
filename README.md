@@ -25,11 +25,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-</p>
 <br>  
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLim&layout=compact&langs_count=8&theme=dracula)](https://github.com/SeungjaeLim)
