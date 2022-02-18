@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-#### Framework
+#### Framework / Library
 <p>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
