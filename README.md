@@ -1,6 +1,6 @@
 
 <h1> Seungjae Lim </h1>
-<a href="https://www.instagram.com/1m_seungjae/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1m_seungjae/"/></a>
+<a href="https://www.instagram.com/s.zae_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1m_seungjae/"/></a>
 
 ### 🛠 Tech Stack
 #### Language
