@@ -3,8 +3,8 @@
   ###  Seungjae Lim ###
  
  ---
- I am interested in \*\*Forecasting of time series\*\* data, and I am also interested in \*\*GNN\*\*. <br> 
- Recently, I am studying the \*\*application of GNN\*\* in the field of \*\*time series forecasting\*\*.
+ I am interested in **forecasting of time series** data, and I am also interested in **graph neural network**. <br> 
+ Recently, I am studying the **application of GNN** in the field of **time series forecasting**.
 
  ---
  🍀 **Currently Working On** 🍀
