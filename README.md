@@ -1,23 +1,19 @@
 <div align="center">
-  
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SeungjaeLim&show_icons=true&theme=dracula&hide="/>
- 
-  ### 🐣 Seungjae Lim 🐥 
- ---
 
- 🍏 **Currently Working On** 🍏 
+  ###  Seungjae Lim 
+ ---
+ ---
+ 🍀 **Currently Working On** 🍀
  <br> 
  NAVER CLOVA ML X, Forecasting
   <br>
   <br>
- 🍊 **Education** 🍊 
+ 🏫 **Education** 🏫
  <br> 
  Undergraduate Student in KAIST Computer Science
  <br> 
  Early Graduation in Chungbuk Science Highschool
  
- 
- <br>
  
 </div>
   
