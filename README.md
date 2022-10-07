@@ -1,7 +1,11 @@
 <div align="center">
 
-  ###  Seungjae Lim 
+  ###  Seungjae Lim ###
+ 
  ---
+ I am interested in \*\*Forecasting of time series\*\* data, and I am also interested in \*\*GNN\*\*. <br> 
+ Recently, I am studying the \*\*application of GNN\*\* in the field of \*\*time series forecasting\*\*.
+
  ---
  🍀 **Currently Working On** 🍀
  <br> 
