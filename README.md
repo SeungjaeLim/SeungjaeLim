@@ -1,7 +1,12 @@
 <div align="center">
 
-  ###  Seungjae Lim ###
- 
+  #  Seungjae Lim #
+ <p align="center">
+  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/></a>&nbsp
+  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s.zae/"/></a>&nbsp
+  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/seungjae.lim@navercorp.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=seungjae.lim@navercorp.com"/></a>
+</p>
+
  ---
  I am interested in **forecasting of time series** data, and I am also interested in **graph neural network**. <br> 
  Recently, I am studying the **application of GNN** in the field of **time series forecasting**.
@@ -36,10 +41,12 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=ava&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/>
+<br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/>
+
 <br>
   <img src="https://img.shields.io/badge/Verilog-19328B?style=flat-square&logo=V&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-F79456?style=flat-square&logo=Monster&logoColor=white"/>
