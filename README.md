@@ -8,7 +8,7 @@
 </p>
 
  ---
- I am interested in **forecasting of time series** data, and I am also interested in **graph neural network**. <br> 
+ I am interested in **forecasting of time series** data, and also interested in **graph neural network**. <br> 
  Recently, I am studying the **application of GNN** in the field of **time series forecasting**.
 
  ---
