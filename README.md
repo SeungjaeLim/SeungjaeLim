@@ -4,12 +4,13 @@
  <p align="center">
   <a href="https://velog.io/@seungjaelim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/></a>&nbsp
   <a href="https://www.instagram.com/s.zae_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s.zae_/"/></a>&nbsp
-  <a href="mailto:seungjae.lim@navercorp.com"><img src="https://img.shields.io/badge/seungjae.lim@navercorp.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=seungjae.lim@navercorp.com"/></a>
+  <a href="mailto:seungjaelim@kaist.ac.kr"><img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/></a>
 </p>
 
  ---
- I am interested in **forecasting of time series** data, and also interested in **graph neural network**. <br> 
- Recently, I am studying the **application of GNN** in the field of **time series forecasting**.
+ I'm interested in **machine learning** in general. <br> 
+ Recently, I'm interested in learning about **chips** and **systems**,<br> 
+ that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry.
   
  I am a person who likes to reach **new environments**, have **new experiences**, and study **new things**. <br> 
  I want to live a life where I **encounter** a lot of **various things**.
@@ -17,15 +18,22 @@
  ---
  🍀 **Currently Working On** 🍀
  <br> 
- NAVER Search ML X, Forecasting
+ **KAIST**, School of Computing
   <br>
   <br>
  🏫 **Education** 🏫
  <br> 
- Undergraduate Student in KAIST Computer Science
+ Undergraduate Student in **KAIST** Computer Science
  <br> 
- Early Graduation in Chungbuk Science Highschool
- 
+ Early Graduation in **Chungbuk Science Highschool**
+  <br>
+  <br>
+ 🐣  **Experience** 🐣 
+ <br> 
+ **NAVER CLOVA**, AI Modeling Intern
+ <br> 
+ **Mad Camp**, Intensive Programming
+  
  ---
  ### ✏️ Tech Stack ✏️
   **Confident** 
