@@ -43,10 +43,11 @@
 
   **Have worked on a project**
    <br>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Jameson&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Verilog-19328B?style=flat-square&logo=V&logoColor=white"/>
     <img src="https://img.shields.io/badge/MATLAB-F79456?style=flat-square&logo=Monster&logoColor=white"/>
