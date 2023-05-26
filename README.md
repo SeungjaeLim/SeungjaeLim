@@ -18,7 +18,7 @@
  ---
  🍀 **Currently Working On** 🍀
  <br> 
- **KAIST**, School of Computing
+ **CASYS** KAIST, research intern
   <br>
   <br>
  🏫 **Education** 🏫
