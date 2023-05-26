@@ -18,7 +18,9 @@
  ---
  🍀 **Currently Working On** 🍀
  <br> 
- **CASYS** KAIST, research intern
+ **CASYS** KAIST, Research Intern
+  <br>
+  Efficient ML System
   <br>
   <br>
  🏫 **Education** 🏫
@@ -29,6 +31,8 @@
   <br>
   <br>
  🐣  **Experience** 🐣 
+ <br> 
+ **CASYS** KAIST, Research Intern
  <br> 
  **NAVER CLOVA**, AI Modeling Intern
  <br> 
