@@ -9,7 +9,7 @@
 
  ---
  I'm interested in **machine learning** in general. <br> 
- Recently, I'm interested in learning about **chips** and **systems**,<br> 
+ Recently, I'm interested in learning about **ML systems**,<br> 
  that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry.
   
  I am a person who likes to reach **new environments**, have **new experiences**, and study **new things**. <br> 
