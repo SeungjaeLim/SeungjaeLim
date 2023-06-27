@@ -36,7 +36,7 @@
  <br> 
  **NAVER CLOVA**, AI Modeling Intern
  <br> 
- **Mad Camp**, Intensive Programming
+ **KRAFTON/KAIST Mad Camp**, Intensive Programming
   
  ---
  ### ✏️ Tech Stack ✏️
