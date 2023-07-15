@@ -34,6 +34,8 @@
  <br> 
  **CASYS** KAIST, Research Intern
  <br> 
+ **NAEK YEHS**, Member
+ <br> 
  **NAVER CLOVA**, AI Modeling Intern
  <br> 
  **KRAFTON/KAIST Mad Camp**, Intensive Programming
