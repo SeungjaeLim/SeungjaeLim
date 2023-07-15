@@ -32,7 +32,9 @@
   <br>
  🐣  **Experience** 🐣 
  <br> 
- **CASYS** KAIST, Research Intern
+ **CASYS KAIST**, Research Intern
+ <br> 
+ **ONLY**, ML & Backend Developer
  <br> 
  **NAEK YEHS**, Member
  <br> 
