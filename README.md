@@ -34,13 +34,9 @@
  <br> 
  **CASYS KAIST**, Research Intern
  <br> 
- **ONLY**, ML & Backend Developer
- <br> 
  **NAEK YEHS**, Member
  <br> 
  **NAVER CLOVA**, AI Modeling Intern
- <br> 
- **KRAFTON/KAIST Mad Camp**, Intensive Programming
   
  ---
  ### ✏️ Tech Stack ✏️
