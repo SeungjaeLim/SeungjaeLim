@@ -3,7 +3,6 @@
   #  Seungjae Lim #
  <p align="center">
   <a href="https://velog.io/@seungjaelim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/></a>&nbsp
-  <a href="https://www.instagram.com/s.zae_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s.zae_/"/></a>&nbsp
   <a href="mailto:seungjaelim@kaist.ac.kr"><img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/></a>
 </p>
 
