@@ -6,36 +6,30 @@
   <a href="mailto:seungjaelim@kaist.ac.kr"><img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/></a>
 </p>
 
- ---
  I'm interested in **machine learning** in general. <br> 
  Recently, I'm interested in learning about **ML systems**,<br> 
  that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry.
   
  I am a person who likes to reach **new environments**, have **new experiences**, and study **new things**. <br> 
  I want to live a life where I **encounter** a lot of **various things**.
+</div>
 
  ---
- 🍀 **Currently Working On** 🍀
- <br> 
- **CASYS** KAIST, Research Intern
-  <br>
-  Efficient ML System
-  <br>
-  <br>
- 🏫 **Education** 🏫
- <br> 
- Undergraduate Student in **KAIST** Computer Science
- <br> 
- Early Graduation in **Chungbuk Science Highschool**
-  <br>
-  <br>
+### 🍀 Work Experience
+| Company | Period | Role |
+|:---|:---|:---|
+|  [CASYS KAIST](http://) | 2023.06. ~ | ML System Researching Intern |
+|  [NAVER CLOVA](https://navercorp.com) | 2022.08. ~ 2023.02.| ML Engineering Intern |
+ 
+
+### 🏫 Education 🏫
+ - Undergraduate Student in **School of Computing, KAIST**
+   - Minor in **Electrical Engineering**
+ - Early Graduation in **Chungbuk Science Highschool**
+
  🐣  **Experience** 🐣 
- <br> 
- **CASYS KAIST**, Research Intern
- <br> 
  **NAEK YEHS**, Member
- <br> 
- **NAVER CLOVA**, AI Modeling Intern
+
   
  ---
  ### ✏️ Tech Stack ✏️
