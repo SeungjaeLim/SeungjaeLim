@@ -15,26 +15,26 @@
 </div>
 
  ---
-### 🍀 Work Experience
-| Company | Period | Role |
-|:---|:---|:---|
-|  [CASYS KAIST](http://) | 2023.06. ~ | ML System Researching Intern |
-|  [NAVER CLOVA](https://navercorp.com) | 2022.08. ~ 2023.02.| ML Engineering Intern |
  
-
 ### 🏫 Education 🏫
  - Undergraduate Student in **School of Computing, KAIST**
    - Minor in **Electrical Engineering**
  - Early Graduation in **Chungbuk Science Highschool**
 
-### 🐣 Experience 🐣 
+### 🍀 Work Experience
+| Company | Period | Role |
+|:---|:---|:---|
+|  [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06. ~ | ML System Researching Intern |
+|  [NAVER CLOVA](https://navercorp.com) | 2022.08. ~ 2023.02.| ML Engineering Intern |
+
+### 🐣 Other Experience 
 | Event | Period | Experience|
 |:---|:---|:--|
-|CASYS|2021.06. ~ 2021.08.| Research Student about ML Secure |
-|OSLab|2021.09. ~ 2021.12.| Research Student about OS |
-|MLML|2022.06. ~ 2022.08 | Research Student about AutoML |
-|Mad Camp| 2021.12. ~ 2022.01. | Developer|
-|NAEK YEHS|2023.01. ~ |Member|
+|[CASYS](https://casyslab.kaist.ac.kr/) |2021.06. ~ 2021.08.| Research Student about ML Secure |
+|[OSLab](https://oslab.kaist.ac.kr/)|2021.09. ~ 2021.12.| Research Student about OS |
+|[MLML](https://mlml.kaist.ac.kr/)|2022.06. ~ 2022.08 | Research Student about AutoML |
+|[Mad Camp](https://madcamp.io/)| 2021.12. ~ 2022.01. | Developer|
+|[NAEK YEHS](https://www.yehs.or.kr/)|2023.01. ~ |Member|
 
 
 ### ✏️ Tech Stack ✏️
