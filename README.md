@@ -27,12 +27,17 @@
    - Minor in **Electrical Engineering**
  - Early Graduation in **Chungbuk Science Highschool**
 
- 🐣  **Experience** 🐣 
- **NAEK YEHS**, Member
+### 🐣 Experience 🐣 
+| Event | Period | Experience|
+|:---|:---|:--|
+|CASYS|2021.06. ~ 2021.08.| Research Student about ML Secure |
+|OSLab|2021.09. ~ 2021.12.| Research Student about OS |
+|MLML|2022.06. ~ 2022.08 | Research Student about AutoML |
+|Mad Camp| 2021.12. ~ 2022.01. | Developer|
+|NAEK YEHS|2023.01. ~ |Member|
 
-  
- ---
- ### ✏️ Tech Stack ✏️
+
+### ✏️ Tech Stack ✏️
   **Confident** 
    <br> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
