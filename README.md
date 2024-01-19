@@ -5,9 +5,8 @@
   <a href="https://velog.io/@seungjaelim"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/></a>&nbsp
   <a href="mailto:seungjaelim@kaist.ac.kr"><img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/></a>
 </p>
-
- I'm interested in **machine learning** in general. <br> 
- Recently, I'm interested in learning about **ML systems**,<br> 
+ 
+ I'm interested in learning about **ML systems**,<br> 
  that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry.
   
  I am a person who likes to reach **new environments**, have **new experiences**, and study **new things**. <br> 
