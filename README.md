@@ -14,11 +14,10 @@
     </a>
   </p>
 
-  I'm interested in learning about **ML systems** that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry.
-
-  I enjoy reaching **new environments**, having **new experiences**, and studying **new things**. I aspire to live a life filled with diverse and varied encounters.
+  I'm interested in learning about **ML systems** that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry. I enjoy reaching **new environments**, having **new experiences**, and studying **new things**. I aspire to live a life filled with diverse and varied encounters.
 
 </div>
+ 
 
 ---
 
