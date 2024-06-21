@@ -32,9 +32,9 @@
   - Early Graduation
 
 ### 🍀 Work Experience
-| Company | Period | Role |
+| Group | Period | Role |
 | --- | --- | --- |
-| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ | ML System Research Intern |
+| [CASYS](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
 | [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
 
 ### 🐣 Other Experience
