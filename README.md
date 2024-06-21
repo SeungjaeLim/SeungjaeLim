@@ -34,15 +34,15 @@
 ### 🍀 Work Experience
 | Group | Period | Role |
 | --- | --- | --- |
-| [CASYS](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
+| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
 | [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
 
 ### 🐣 Other Experience
 | Event | Period | Experience |
 | --- | --- | --- |
-| [CASYS](https://casyslab.kaist.ac.kr/) | 2021.06 ~ 2021.08 | Research Student in ML Security |
-| [OSLab](https://oslab.kaist.ac.kr/) | 2021.09 ~ 2021.12 | Research Student in OS |
-| [MLML](https://mlml.kaist.ac.kr/) | 2022.06 ~ 2022.08 | Research Student in AutoML |
+| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2021.06 ~ 2021.08 | Research Student in ML Security |
+| [OSLab KAIST](https://oslab.kaist.ac.kr/) | 2021.09 ~ 2021.12 | Research Student in OS |
+| [MLML KAIST](https://mlml.kaist.ac.kr/) | 2022.06 ~ 2022.08 | Research Student in AutoML |
 | [Mad Camp](https://madcamp.io/) | 2021.12 ~ 2022.01 | Developer |
 | [NAEK YEHS](https://www.yehs.or.kr/) | 2023.01 ~ | Member |
 
