@@ -23,7 +23,7 @@
 
 ### 🏫 Education
 - **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
-  - **M.S. student**, School of Computing
+  - **M.S. student**, School of Computing (예정)
   - Advisor: Prof. Youngjin Kwon
 - **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
   - B.S, School of Computing
