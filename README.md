@@ -2,9 +2,12 @@
 
   # Seungjae Lim
 
- <p align="center">
+  <p align="center">
     <a href="https://velog.io/@seungjaelim">
       <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/>
+    </a>&nbsp
+    <a href="https://linkedin.com/in/seungjaelim">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/seungjaelim"/>
     </a>&nbsp
     <a href="mailto:seungjaelim@kaist.ac.kr">
       <img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/>
