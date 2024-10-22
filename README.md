@@ -3,9 +3,6 @@
   # Seungjae Lim
 
   <p align="center">
-    <a href="https://velog.io/@seungjaelim">
-      <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@seungjaelim"/>
-    </a>&nbsp
     <a href="https://linkedin.com/in/seungjaelim">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/seungjaelim"/>
     </a>&nbsp
@@ -63,6 +60,7 @@
   - [AI Oneul](https://github.com/SeungjaeLim/AIOneul-LLMEngine), Application to promote literacy using generative AI with Few-shot CoT Prompting
  
 - **Silver Prize (2nd place)**, 2nd KAIST-Postech-UNIST Data Science Contest
+  - ECMiner Award
   - Business owner prediction and Pop-up / Survey AD planning by Hana 1Q App usage record
 
 - **Best Prize (1st place)**, 2023 Social Problem-Solving Volunteer Idea Hackathon
