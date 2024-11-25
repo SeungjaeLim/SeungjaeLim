@@ -40,6 +40,9 @@
 
 
 ### 🏆 Awards
+- **Excellence Award (2nd Place)**, 2024 Elice AI Hellothon
+  - Elice Award
+  - Caregiver cognitive activity lesson guide creator and elderly interactive AI drawing diary service [SAEM, SAM](https://github.com/SeungjaeLim/SaemSam)
 - **Grand Prize (1st place)**, 2024 SPARCS Science Hackathon
   - Daejeon Mayor's Award
   - Web-based XR labs for ALL types of eXperiments, [ALLeX](https://github.com/SeungjaeLim/ALLeX)
