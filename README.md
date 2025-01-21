@@ -38,6 +38,14 @@
 | [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
 | [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
 
+### 📚 Publications
+
+- **Leveraging LLM-Generated Schema Descriptions for Unanswerable Question Detection in Clinical Data**  
+  Donghee Han*, **Seungjae Lim\***, Daeyoung Roh, Sangryul Kim, Sehyun Kim, Mun Yong Yi  
+  *(\*Equal contribution)*  
+  **COLING 2025** | International Conference on Computational Linguistics  
+  [pdf](https://aclanthology.org/2025.coling-main.706.pdf) | [abstract](https://aclanthology.org/2025.coling-main.706/)  
+
 
 ### 🏆 Awards
 - **Excellence Award (2nd Place)**, 2024 Elice AI Hellothon
