@@ -32,11 +32,6 @@
 - **Chungbuk Science High School**, South Korea
   - Early Graduation
 
-### 🍀 Work Experience
-| Group | Period | Role |
-| --- | --- | --- |
-| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
-| [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
 
 ### 📚 Publications
 
@@ -81,6 +76,12 @@
   - The Minister of Science and ICT of the Republic of Korea Award
   - Coding platform that dynamically fairy tale book to improve students' English skills
   
+### 🍀 Work Experience
+| Group | Period | Role |
+| --- | --- | --- |
+| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
+| [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
+
 
 ### 🐣 Other Experience
 | Event | Period | Experience |
@@ -90,7 +91,7 @@
 | [MLML KAIST](https://mlml.kaist.ac.kr/) | 2022.06 ~ 2022.08 | Research Student in AutoML |
 | [Mad Camp](https://madcamp.io/) | 2021.12 ~ 2022.01 | Developer |
 | [NAEK YEHS](https://www.yehs.or.kr/) | 2023.01 ~ | Member |
-
+<!--
 ### ✏️ Tech Stack
 
 **Confident**
@@ -125,4 +126,4 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
-<br>
+<br>-->
