@@ -14,7 +14,9 @@
     </a>
   </p>
 
-  I'm interested in learning about **ML systems** that can serve **hyperscale AI** models **quickly** and **efficiently** when applied to industry. I enjoy reaching **new environments**, having **new experiences**, and studying **new things**. I aspire to live a life filled with diverse and varied encounters.
+  Hello! I’m **Seungjae Lim**, an **M.S. candidate** in the CASYS Lab at KAIST, where I research **machine-learning systems**.
+My current focus is on system-level optimizations that let **LLM agent systems** serve users faster and more efficiently.
+I thrive on new environments, fresh experiences, and continuous learning—always looking to grow through diverse connections.
 
 </div>
  
@@ -32,6 +34,13 @@
 - **Chungbuk Science High School**, South Korea
   - Early Graduation
 
+### 🍀 Work Experience
+- **[CASYS KAIST](https://casyslab.kaist.ac.kr/)**, South Korea  
+  - **ML Systems Research Intern** (Jun 2023 – Jun 2024)  
+  - Optimized memory efficiency in speculative-decoding inference serving.
+- **[NAVER CLOVA](https://navercorp.com)**, South Korea  
+  - **ML Engineering Intern** (Aug 2022 – Feb 2023)  
+  - Built delivery-time prediction models and an AutoML forecasting pipeline for time-series data.
 
 ### 📚 Publications
 
@@ -43,44 +52,36 @@
 
 
 ### 🏆 Awards
-- **Excellence Award (2nd Place)**, 2024 Elice AI Hellothon
-  - Elice Award
-  - Caregiver cognitive activity lesson guide creator and elderly interactive AI drawing diary service [SAEM, SAM](https://github.com/SeungjaeLim/SaemSam)
-- **Grand Prize (1st place)**, 2024 SPARCS Science Hackathon
-  - Daejeon Mayor's Award
-  - Web-based XR labs for ALL types of eXperiments, [ALLeX](https://github.com/SeungjaeLim/ALLeX)
-- **Grand Prize (1st place)**, 2024 Social Problem-Solving Volunteer Showcase
-  - Gyeonggi-do Governor's Award
-  - Generative Volunteer Reward System for Creating "My Own Characters" using GenAI, [GreenThread](https://github.com/SeungjaeLim/GreenThread)
-- **Gold Prize (1st place)**, 2024 ICISTS Hackafair
-  - KAIST President's Award
-  - [GenEraser](https://github.com/SeungjaeLim/GenEraser): A Customizable Profanity Filtering B2B Service for Each Community with Automatically Updating Filters using RAG
-    
-- **Best Prize (1st place)**, 2024 Social Problem-Solving Volunteer Idea Hackathon
-  - Generative Volunteer Reward System for Creating "My Own Characters" using GenAI, [GreenThread](https://github.com/SeungjaeLim/GreenThread)
-    
-- **Best Prize (3rd place)**, K-Data Science Hackathon
-  - Finetuning and serve LLM with RAG about Korean history large-scale generative language models, [K-Hyunmoo GPT](https://github.com/SeungjaeLim/K-HyunmooGPT)
- 
-- **Top 10**, 2023 Elice Generative AI Edu Hackathon
-  - [AI Oneul](https://github.com/SeungjaeLim/AIOneul-LLMEngine), Application to promote literacy using generative AI with Few-shot CoT Prompting
- 
-- **Silver Prize (2nd place)**, 2nd KAIST-Postech-UNIST Data Science Contest
-  - ECMiner Award
-  - Business owner prediction and Pop-up / Survey AD planning by Hana 1Q App usage record
 
-- **Best Prize (1st place)**, 2023 Social Problem-Solving Volunteer Idea Hackathon
-  - Safe for single female-headed household real eastate listing and braokerage recommendation system app, Homey
-    
-- **Grand Prize (1st place)**, 1st Korean Donation for Education Idea Contest
-  - The Minister of Science and ICT of the Republic of Korea Award
-  - Coding platform that dynamically fairy tale book to improve students' English skills
-  
-### 🍀 Work Experience
-| Group | Period | Role |
-| --- | --- | --- |
-| [CASYS KAIST](https://casyslab.kaist.ac.kr/) | 2023.06 ~ 2024.06| ML System Research Intern |
-| [NAVER CLOVA](https://navercorp.com) | 2022.08 ~ 2023.02 | ML Engineering Intern |
+- **Excellence Award (2nd Place) 🥈** | *Elice AI Hellothon*, 2024  
+  Caregiver cognitive-activity lesson guide creator & elderly interactive AI drawing diary service — **[SAEM·SAM](https://github.com/SeungjaeLim/SaemSam)**
+
+- **Grand Prize (1st Place) 🥇** | *SPARCS Science Hackathon*, 2024  
+  (Daejeon Mayor's Award) Web-based XR labs for all types of experiments — **[ALLeX](https://github.com/SeungjaeLim/ALLeX)**
+
+- **Grand Prize (1st Place) 🥇** | *Social Problem-Solving Volunteer Showcase*, 2024  
+  (Gyeonggi-do Governor's Award) Generative volunteer reward system — **[GreenThread](https://github.com/SeungjaeLim/GreenThread)**
+
+- **Gold Prize (1st Place) 🥇** | *ICISTS Hackafair*, 2024  
+  **[GenEraser](https://github.com/SeungjaeLim/GenEraser)** — customizable profanity-filtering B2B service with RAG
+
+- **Best Prize (1st Place) 🥇** | *Social Problem-Solving Volunteer Idea Hackathon*, 2024  
+  Generative volunteer reward system for creating customizable characters — **[GreenThread](https://github.com/SeungjaeLim/GreenThread)**
+
+- **Best Prize (3rd Place) 🥉** | *K-Data Science Hackathon*, 2024  
+  Fine-tuned & served distortion-free LLM with RAG on Korean history — **[K-Hyunmoo GPT](https://github.com/SeungjaeLim/K-HyunmooGPT)**
+
+- **Top 10 (Finalist) 🏅** | *Elice Generative AI Edu Hackathon*, 2023  
+  **[AI Oneul](https://github.com/SeungjaeLim/AIOneul-LLMEngine)** — literacy-promotion app using generative AI with few-shot CoT prompting
+
+- **Silver Prize (2nd Place) 🥈** | *KAIST-POSTECH-UNIST Data Science Contest*, 2023  
+  ECMiner Award — Business-owner prediction & pop-up / survey ad planning with Hana 1Q usage data
+
+- **Best Prize (1st Place) 🥇** | *Social Problem-Solving Volunteer Idea Hackathon*, 2023  
+  Real-estate listing & brokerage recommendation app for single female-headed households — Homey
+
+- **Grand Prize (1st Place) 🥇** | *Korean Donation for Education Idea Contest*, 2023  
+  (Minister of Science and ICT Award) Dynamic coding-based fairy-tale platform for English education
 
 
 ### 🐣 Other Experience
