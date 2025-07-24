@@ -47,7 +47,7 @@ I thrive on new environments, fresh experiences, and continuous learning—alway
 - **Leveraging LLM-Generated Schema Descriptions for Unanswerable Question Detection in Clinical Data**  
   Donghee Han*, **Seungjae Lim\***, Daeyoung Roh, Sangryul Kim, Sehyun Kim, Mun Yong Yi  
   *(\*Equal contribution)*  
-  **COLING 2025** | Proceedings of the 31st International Conference on Computational Linguistics  
+  **COLING 2025** | The 31st International Conference on Computational Linguistics  
   [pdf](https://aclanthology.org/2025.coling-main.706.pdf) | [abstract](https://aclanthology.org/2025.coling-main.706/)  
 
 
