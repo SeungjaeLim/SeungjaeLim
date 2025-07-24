@@ -14,9 +14,7 @@
     </a>
   </p>
 
-  Hello! I’m **Seungjae Lim**, an **M.S. candidate** in the CASYS Lab at KAIST, where I research **machine-learning systems**.
-My current focus is on system-level optimizations that let **LLM agent systems** serve users faster and more efficiently.
-I thrive on new environments, fresh experiences, and continuous learning—always looking to grow through diverse connections.
+I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the intersection of research and engineering in machine learning systems. My current focus is on system-level optimization for efficient LLM-based multi-agent serving. I seek opportunities to learn from diverse experiences and continuously evolve in both technical depth and practical impact.
 
 </div>
  
