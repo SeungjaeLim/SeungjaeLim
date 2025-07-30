@@ -2,17 +2,20 @@
 
   # Seungjae Lim
 
-  <p align="center">
-    <a href="https://linkedin.com/in/seungjaelim">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/seungjaelim"/>
-    </a>&nbsp
-    <a href="mailto:seungjaelim@kaist.ac.kr">
-      <img src="https://img.shields.io/badge/seungjaelim@kaist.ac.kr-005AAA?style=flat-square&logo=Kongregate&logoColor=white&link=seungjaelim@kaist.ac.kr"/>
-    </a>&nbsp
-    <a href="mailto:sjlim@casys.kaist.ac.kr">
-      <img src="https://img.shields.io/badge/sjlim@casys.kaist.ac.kr-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sjlim@casys.kaist.ac.kr"/>
-    </a>
-  </p>
+<p align="center">
+  
+  <a href="mailto:sjlim@casys.kaist.ac.kr">
+    <img src="https://img.shields.io/badge/sjlim@casys.kaist.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/SeungjaeLim/Curriculum-Vitae/blob/main/CV.pdf">
+    <img src="https://img.shields.io/badge/CV-4B0082?style=flat-square&logo=readdotcv&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/seungjaelim">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=lerna&logoColor=white"/>
+  </a>
+</p>
+
+
 
 I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the intersection of research and engineering in machine learning systems. My current focus is on system-level optimization for efficient LLM-based multi-agent serving. I seek opportunities to learn from diverse experiences and continuously evolve in both technical depth and practical impact.
 
