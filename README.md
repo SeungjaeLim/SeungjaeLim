@@ -29,6 +29,7 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
 - **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea
   - B.S, School of Computing
   - Minor in Electrical Engineering
+  - Graduated as Top 10 Leadership & Volunteer Honoree
 - **Chungbuk Science High School**, South Korea
   - Early Graduation
 
@@ -50,6 +51,9 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
 
 
 ### 🏆 Awards
+
+- **Leadership & Volunteer Excellence Award 🥇** | 2025  
+  (KAIST President's Award) Top 10 among all 2024–2025 graduates for exceptional leadership and volunteer work
 
 - **Excellence Award (2nd Place) 🥈** | *Elice AI Hellothon*, 2024  
   Caregiver cognitive-activity lesson guide creator & elderly interactive AI drawing diary service — **[SAEM·SAM](https://github.com/SeungjaeLim/SaemSam)**
