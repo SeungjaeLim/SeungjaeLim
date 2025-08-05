@@ -45,7 +45,18 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
   - Built delivery-time prediction models and an AutoML forecasting pipeline for time-series data.
 
 ### 📚 Publications
+- **TTServing: Efficiently Serving Large Language Models with Test-time Search for Inference-time Scaling**  
+  Sukmin Cho, **Seungjae Lim**, Sangjin Choi, Hyunsu Ye, Wooseok Gwak, Youngjin Kwon  
+  **Under Review**
 
+- **COSPEC: Efficient LLM Serving with Colocated Speculative Decoding**  
+  Sangjin Choi, Hyunjae Lee, **Seungjae Lim**, Sukmin Cho, Youngjin Kwon  
+  **Under Review**
+
+- **RAG-based Unanswerable Question Detection in Clinical Text-to-SQL**  
+  Donghee Han, **Seungjae Lim**, Mun Yong Yi  
+  **CIKM 2025** | The 34th ACM International Conference on Information and Knowledge Management
+  
 - **Leveraging LLM-Generated Schema Descriptions for Unanswerable Question Detection in Clinical Data**  
   Donghee Han*, **Seungjae Lim\***, Daeyoung Roh, Sangryul Kim, Sehyun Kim, Mun Yong Yi  
   *(\*Equal contribution)*  
