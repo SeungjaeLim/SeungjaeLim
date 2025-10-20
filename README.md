@@ -100,6 +100,9 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
   (Minister of Science and ICT Award) Dynamic coding-based fairy-tale platform for English education
 
 
+
+<!--
+
 ### 🐣 Other Experience
 | Event | Period | Experience |
 | --- | --- | --- |
@@ -108,7 +111,6 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
 | [MLML KAIST](https://mlml.kaist.ac.kr/) | 2022.06 ~ 2022.08 | Research Student in AutoML |
 | [Mad Camp](https://madcamp.io/) | 2021.12 ~ 2022.01 | Developer |
 | [NAEK YEHS](https://www.yehs.or.kr/) | 2023.01 ~ | Member |
-<!--
 ### ✏️ Tech Stack
 
 **Confident**
