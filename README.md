@@ -45,6 +45,10 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
   - Built delivery-time prediction models and an AutoML forecasting pipeline for time-series data.
 
 ### 📚 Publications
+- **BEAM: Joint Resource–Power Optimization for Energy-Efficient LLM Inference under SLO contraints**  
+  Hyunjae Lee, Sangjin Choi, **Seungjae Lim**, Youngjin Kwon  
+  **Under Review**
+
 - **TTServing: Efficiently Serving Large Language Models with Test-time Search for Inference-time Scaling**  
   Sukmin Cho, **Seungjae Lim**, Sangjin Choi, Hyunsu Ye, Wooseok Gwak, Youngjin Kwon  
   **Under Review**
