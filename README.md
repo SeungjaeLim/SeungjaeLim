@@ -59,7 +59,8 @@ I’m Seungjae Lim, an M.S. student in the CASYS Lab at KAIST, working at the in
 
 - **RAG-based Unanswerable Question Detection in Clinical Text-to-SQL**  
   Donghee Han, **Seungjae Lim**, Mun Yong Yi  
-  **CIKM 2025** | The 34th ACM International Conference on Information and Knowledge Management
+  **CIKM 2025** | The 34th ACM International Conference on Information and Knowledge Management  
+  [pdf](https://dl.acm.org/doi/pdf/10.1145/3746252.3760821) | [abstract](https://dl.acm.org/doi/10.1145/3746252.3760821)  
   
 - **Leveraging LLM-Generated Schema Descriptions for Unanswerable Question Detection in Clinical Data**  
   Donghee Han*, **Seungjae Lim\***, Daeyoung Roh, Sangryul Kim, Sehyun Kim, Mun Yong Yi  
