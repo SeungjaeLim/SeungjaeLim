@@ -42,16 +42,6 @@ Graduated as a Top 10 Leadership & Volunteer Honoree
 **Chungbuk Science High School**, South Korea  
 Early Graduation
 
-### 🍀 Work Experience
-
-**[CASYS KAIST](https://casyslab.kaist.ac.kr/)**, South Korea  
-ML Systems Research Intern · Jun 2023 – Aug 2024  
-Worked on efficient LLM inference and serving systems.
-
-**[NAVER CLOVA](https://navercorp.com)**, South Korea  
-ML Engineering Intern · Aug 2022 – Feb 2023  
-Built delivery-time prediction models and an AutoML forecasting pipeline for time-series data.
-
 ### 📚 Publications
 
 **AGSPEC: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines**  
@@ -81,6 +71,17 @@ Donghee Han\*, **Seungjae Lim\***, Daeyoung Roh, Sangryul Kim, Sehyun Kim, Mun Y
 \*Equal contribution  
 **COLING 2025** · The 31st International Conference on Computational Linguistics  
 [pdf](https://aclanthology.org/2025.coling-main.706.pdf) · [abstract](https://aclanthology.org/2025.coling-main.706/)
+
+
+### 🍀 Work Experience
+
+**[CASYS KAIST](https://casyslab.kaist.ac.kr/)**, South Korea  
+ML Systems Research Intern · Jun 2023 – Aug 2024  
+Worked on efficient LLM inference and serving systems.
+
+**[NAVER CLOVA](https://navercorp.com)**, South Korea  
+ML Engineering Intern · Aug 2022 – Feb 2023  
+Built delivery-time prediction models and an AutoML forecasting pipeline for time-series data.
 
 ### 🏆 Awards
 
